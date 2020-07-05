@@ -9,5 +9,6 @@ class Shoe
   
   def cobble
     puts "the shoe has been replaced"
+  end
   
 end
